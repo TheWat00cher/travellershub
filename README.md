@@ -1,29 +1,25 @@
-# 🏡 Airbnb Clone
+# 🏡 TravellersHub
 
-Welcome to the **Airbnb Clone** project! This is a full-stack web application that replicates key features of Airbnb, allowing users to book stays, list properties, and manage reservations.
+Welcome to the **TravellersHub** project! This is a full-stack web application that replicates key features of Airbnb, allowing users to book stays, list properties, and manage reservations.
 
 ## 🚀 Features
 - User authentication (Login/Signup)
 - List, edit, and delete properties
 - Search and filter stays
-- Booking system with calendar integration
 - Responsive UI design
 
 ## 🛠️ Tech Stack
 - **Frontend:** React, Tailwind CSS
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Authentication:** Firebase/Auth0
-- **Hosting:** Vercel, AWS S3
+- **Hosting:** mongo Atlas , Render
 
-## 📸 Screenshots
-![Homepage Screenshot](link-to-image)
 
 ## 🔧 Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/airbnb-clone.git
-   cd airbnb-clone
+   git clone https://github.com/TheWat00cher/travellershub.git
+   cd travellershub-clone
    ```
 2. Install dependencies:
    ```sh
@@ -36,7 +32,7 @@ Welcome to the **Airbnb Clone** project! This is a full-stack web application th
 
 ## 📬 Contact
 For any queries, feel free to reach out:
-- Email: your-email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- Email: kumarbhaweshjha169@gmail.com.com
+- LinkedIn: https://www.linkedin.com/in/bhawesh-jha-826215217/
 
 ### ⭐ Don't forget to star the repo if you like the project! ⭐
