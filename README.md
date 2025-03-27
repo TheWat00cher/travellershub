@@ -1,6 +1,6 @@
 # 🏡 TravellersHub
 
-Welcome to the **TravellersHub** project! This is a full-stack web application that replicates key features of Airbnb, allowing users to book stays, list properties, and manage reservations.
+Welcome to the **TravellersHub** project! This is a full-stack web application that replicates key features of Airbnb, allowing users to book stays, list properties.
 
 ## 🚀 Features
 - User authentication (Login/Signup)
